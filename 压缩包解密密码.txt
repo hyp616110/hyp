@@ -4,15 +4,6 @@
 
 dev
 
-a
-b
-c
-
-
-dev2
-
-dev3
-
 
 
 
